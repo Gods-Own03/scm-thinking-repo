@@ -1,0 +1,1 @@
+# scm-thinking-repo
