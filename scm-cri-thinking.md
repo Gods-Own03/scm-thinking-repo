@@ -277,25 +277,14 @@ Here are the steps I took to automate code quality and development
 
 ### How I set up best security practices for my Git repository
 
+#### Via SSH
+![alt text](images/S-0.png)
+![alt text](images/S-00.png)
+![alt text](images/S-01.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### Branch protection
+![alt text](images/B-01.png)
+![alt text](images/B-02.png)
 
 ## Explaining how this ensures the security and integrity of the codebase
 
@@ -356,6 +345,8 @@ Together, **commit signing** and **branch protection** provide several key benef
 
 ![alt text](images/C-01.png)
 ![alt text](images/C-02.png)
+
+### Resolving conflict
 ![alt text](images/C-03.png)
 ![alt text](images/C-04.png)
 ![alt text](images/C-05.png)
@@ -366,11 +357,8 @@ Together, **commit signing** and **branch protection** provide several key benef
 ![alt text](images/G-03.png)
 ![alt text](images/G-04.png)
 ![alt text](images/G-06.png)
-![alt text](images/G-07.png)
-
-![alt text](images/G-01.png)
-![alt text](images/G-02.png)
-![alt text](images/G-05.png)
+- YAML file:
+![alt text](images/G-08.png)  
 
 
 
